@@ -9,5 +9,5 @@ Projeto desenvolvido apenas utilizando HTML básico.
 
 ## Screenshots
 
-![App Screenshot](https://github.com/CarlosAliSchutz/PingPong/pingpong)
+![App Screenshot](https://github.com/CarlosAliSchutz/PingPong/blob/main/pingpong.png)
 
