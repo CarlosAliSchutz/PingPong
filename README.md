@@ -7,7 +7,7 @@ Projeto desenvolvido apenas utilizando HTML básico.
 
 
 
-## Screenshot
+## Screenshots
 
-![App Screenshot](pingpong.png)
+![App Screenshot](https://github.com/CarlosAliSchutz/PingPong/pingpong)
 
