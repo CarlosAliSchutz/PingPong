@@ -11,3 +11,4 @@ Projeto desenvolvido utilizando apenas HTML básico.
 
 ![App Screenshot](https://github.com/CarlosAliSchutz/PingPong/blob/main/pingpong.png)
 
+| [top](#activities) | :ping_pong: 
